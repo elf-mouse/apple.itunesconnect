@@ -24,3 +24,24 @@ It is necessary that you put all of the following precautions in place:
 __A:__ UGC内容需要有投诉举报的地方
 
 查了下目前的一些热门应用还真的都有举报的入口，比如足记，微信朋友圈，点击后提示举报成功之类。至于后台功能苹果也看不到，倒是无所谓。
+
+---
+
+__Q:__
+
+```
+Information Needed
+
+We began the review of your app but aren't able to continue because we need additional information about your app.
+
+At your earliest opportunity, please review the following question(s) and provide as much detailed information as you can. The more information you can provide upfront, the sooner we can complete your review.
+
+- How does the user earn app currencies?
+- How does the user recharge app currencies?
+
+Once you reply to this message in Resolution Center with the requested information, we can proceed with your review.
+```
+
+__A:__
+
+回复说明即可
